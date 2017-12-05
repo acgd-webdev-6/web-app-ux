@@ -14,13 +14,7 @@ Throughout the term you’ll be working on teams to make a small web app prototy
 
 - One team member is the UX lead, they will be the guide, but everybody must contribute.
 - Team contributions should be logged for self-assessment purposes.
-
-The UX should be so complete that when it comes to coding there should be no guess work—only coding. Consider even going further and plan the organization of the code base:
-
-- Is doing a pattern library a good idea?
-- What will use Jekyll layouts?
-- What can use Jekyll includes?
-- Do Jekyll data sets make sense?
+- *The ultimate goal of the UX is a testable interactive prototype.*
 
 ---
 
@@ -38,6 +32,7 @@ For the UX, create the following pieces of information (and anything else you de
 6. **Visual design:** Type, colours, sample components (buttons, cards, etc.); Sample patterns to give your coding direction
 7. **Wireframes:** Each screen of your application should have wireframes for every responsive break point
   *These should be high-fidelity with some real text—paper is okay but use rulers*
+8. **Testable interactive prototype:** We want to get this tested as soon as possible.
 
 ---
 
