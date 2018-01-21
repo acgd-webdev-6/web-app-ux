@@ -10,17 +10,17 @@ deliverables: 'Organized UX documents'
 
 Throughout the term you’ll be working on teams to make a small web app prototype. The first step is doing a thorough job of the user experience.
 
-**Do everything Jed would expect you to do to plan and focus this web application.**
+*Do everything Jed would expect you to do to plan and focus this web application.*
 
 - One team member is the UX lead, they will be the guide, but everybody must contribute.
-- Team contributions should be logged for self-assessment purposes.
-- *The ultimate goal of the UX is a testable interactive prototype.*
+- Team contributions should be logged on GitHub for assessment purposes.
+- **The ultimate goal of the UX is a testable interactive prototype.**
 
 ---
 
 ## Details
 
-The subject matter of the web app is completely your choice. It’s a good idea to keep the focus of the application small so it’s manageable to complete in the allotted time **(4 weeks UX, 5 weeks code).**
+The subject matter of the web app is completely your choice. It’s a good idea to keep the focus of the application small so it’s manageable to complete in the allotted time **(5 weeks UX, 4 weeks code).**
 
 For the UX, create the following pieces of information (and anything else you deem necessary):
 
@@ -34,15 +34,18 @@ For the UX, create the following pieces of information (and anything else you de
   *These should be high-fidelity with some real text—paper is okay but use rulers*
 8. **Testable interactive prototype:** We want to get this tested as soon as possible.
 
+*And whatever else you deem necessary to fully explore and plan the idea.*
+
 ---
 
 ## Self assessment
 
 As the team responsible for making this application it’s up to you to determine if the UX you created is successful and up to Jed’s standards.
 
-- Consider making yourselves a rubric to define the success criteria.
+- We’ll be setting up a marking rubric to define your success criteria.
 - Determine what grade you deserve for the time and effort you put into the UX.
 - Consider how well your team worked together and how that should be reflected in your grade.
+- Comment on the rubric Issue, as team, to determine your deserved grade—essentially fill out the rubric for yourselves.
 - How should all this documentation be shown and presented† to the teacher.
 - Is the final result something you’re proud of? Would you show it in your portfolio? Would you give it to a paying client?
 
