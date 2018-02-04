@@ -24,15 +24,15 @@ The subject matter of the web app is completely your choice. It’s a good idea 
 
 For the UX, create the following pieces of information (and anything else you deem necessary):
 
-1. **Target audience:** Who will use your app? Be specific. Personas are encouraged.
+1. **Target audience:** Who will use your app? Be specific; Personas are encouraged
 2. **Website goals & value proposition:** What is your app trying to do? How is it trying to do that? Why?
 3. **Competitive analysis:** Find competitors; What do they do well? What do they do poorly?
-4. **Sitemap & task flows:** Include all the possible screens that the app would need and how the user will access those screens.
+4. **Sitemap & task flows:** Include all the possible screens that the app would need and how the user will access those screens
 5. **A name & logo:** Logo must work well (or adapt to) these sizes: `256px`, `64px`, `32px`, `16px`
 6. **Visual design:** Type, colours, sample components (buttons, cards, etc.); Sample patterns to give your coding direction
-7. **Wireframes:** Each screen of your application should have wireframes for every responsive break point
-  *These should be high-fidelity with some real text—paper is okay but use rulers*
-8. **Testable interactive prototype:** We want to get this tested as soon as possible.
+7. **Wireframe sketches:** Each screen of your application should have wireframe sketches for every responsive break point
+  *These don’t need to be high-fidelity, the high-fidelity versions can be completed as part of the interactive wireframe in Adobe XD*
+8. **Testable interactive wireframe:** (In Adobe XD) We want to get this tested as soon as possible
 
 *And whatever else you deem necessary to fully explore and plan the idea.*
 
