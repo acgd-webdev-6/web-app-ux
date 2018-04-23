@@ -10,10 +10,11 @@ deliverables: 'Organized UX documents'
 
 Throughout the term you’ll be working on teams to make a small web app prototype. The first step is doing a thorough job of the user experience.
 
-*Do everything Jed would expect you to do to plan and focus this web application.*
+*Do everything expected in your IxD class to plan and focus this web application.*
 
 - One team member is the UX lead, they will be the guide, but everybody must contribute.
 - Team contributions should be logged on GitHub for assessment purposes.
+- Follow the standardized Agile Sprint framework.
 - **The ultimate goal of the UX is a testable interactive prototype.**
 
 ---
