@@ -15,7 +15,7 @@ Throughout the term you’ll be working on teams to make a small web app prototy
 - One team member is the UX lead, they will be the guide, but everybody must contribute.
 - Team contributions should be logged on GitHub for assessment purposes.
 - Follow the standardized Agile Sprint framework.
-- **The ultimate goal of the UX is a testable interactive prototype.**
+- **The ultimate goal of the UX is a testable interactive prototype.** But if your team is confident with their wireframes & their code skills they could skip right into coding instead of an interactive prototype in Adobe XD.
 
 ---
 
@@ -33,7 +33,7 @@ For the UX, create the following pieces of information (and anything else you de
 6. **Visual design:** Type, colours, sample components (buttons, cards, etc.); Sample patterns to give your coding direction
 7. **Wireframe sketches:** Each screen of your application should have wireframe sketches for every responsive break point
   *These don’t need to be high-fidelity, the high-fidelity versions can be completed as part of the interactive wireframe in Adobe XD*
-8. **Testable interactive wireframe:** (In Adobe XD) We want to get this tested as soon as possible
+8. (Optionally) **Testable interactive wireframe:** (In Adobe XD) We want to get this tested as soon as possible—some teams may forgo this step because they’d rather jump right into code
 
 *And whatever else you deem necessary to fully explore and plan the idea.*
 
@@ -41,7 +41,7 @@ For the UX, create the following pieces of information (and anything else you de
 
 ## Self assessment
 
-As the team responsible for making this application it’s up to you to determine if the UX you created is successful and up to Jed’s standards.
+As the team responsible for making this application it’s up to you to determine if the UX you created is successful and up to your IxD class’s standards.
 
 - We’ll be setting up a marking rubric to define your success criteria.
 - Determine what grade you deserve for the time and effort you put into the UX.
